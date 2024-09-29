@@ -1,8 +1,5 @@
-## Vitor Oliveira
+## Welcome to my Github Page
 
-<p>
-  Welcome to my Github Page
-</p>
 <p>
   Here you will be able to see my projects that I have done through my journey.
 </p>
