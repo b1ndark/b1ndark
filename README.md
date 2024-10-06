@@ -1,7 +1,7 @@
 ## Welcome to my Github Page
 
 <p>
-  Here you will be able to see my projects that I have done through my journey.
+  Here you will be able to see the projects that I have done through my journey.
 </p>
 
 ---
