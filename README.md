@@ -1,6 +1,7 @@
-## Welcome to my Github Page
+# Welcome to my Github Page
 
 <p>
+  My name is Vitor, I am a Junior Full Stack Software Developer, gratuated at Code Institute.<br/>
   Here you will be able to see the projects that I have done through my journey.
 </p>
 
