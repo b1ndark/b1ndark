@@ -40,7 +40,7 @@ Here are a few projects that showcase my skills:
   _Tech used: HTML5, CSS3, Python, Django, JavaScript, PostgreSQL, Bootstrap, Stripe_  
   🔗 [View on GitHub](https://github.com/b1ndark/project5)
 
-- **Type_R_ Forum** – A forum where Type**_R_** owners can share their experiences and connect  
+- **Type_R_ Forum** – A forum where Type**R** owners can share their experiences and connect  
   _Tech used: HTML5, CSS3, Python, Django, JavaScript, PostgreSQL, Bootstrap_  
   🔗 [View on GitHub](https://github.com/b1ndark/project4)
 
