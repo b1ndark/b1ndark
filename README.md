@@ -1,26 +1,59 @@
-# Welcome to my Github Page
+# 👋 Hi, I'm **Vitor Oliveira**  
+### Junior Full Stack Software Developer
 
-<p>
-  My name is Vitor, I am a Junior Full Stack Software Developer, gratuated at Code Institute.<br/>
-  Here you will be able to see the projects that I have done through my journey.
-</p>
+I'm a passionate and detail-oriented developer recently graduated from the [Code Institute](https://codeinstitute.net/). I specialize in building full-stack applications using modern technologies and frameworks. I enjoy learning new tools and solving challenging problems through code.
 
 ---
 
-### Languages and Tools
+## 🚀 Tech Stack
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white "Hypertext Markup Language 5")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white "Cascading Style Sheets 3")
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white "Bootstrap")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black "JavaScript")
 
+**Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white "Python")
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white "Django")
 
-<img align="left" alt="HTML" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="BootStrap" width="26px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
-<img align="left" alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<!-- <img align="left" alt="React" width="26px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" /> Currently learning it -->
-<img align="left" alt="Python" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Django" width="26px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
-<img align="left" alt="PostgreSQL" width="26px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
-<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
-<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<br />
+**Database & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white "PostgreSQL")
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white "Amazon S3")
+![Gitpod](https://img.shields.io/badge/Gitpod-1AA6E4?style=flat&logo=gitpod&logoColor=white "Gitpod")
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white "Git")
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white "GitHub")
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 
-#
+---
+
+## 🌱 Currently Learning
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white "PHP")
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black "React")
+
+---
+
+## 🛠️ Projects
+
+Here are a few projects that showcase my skills:
+
+- **TopTech** – This is an e-commerce website where users can find the latest tech products  
+  _Tech used: HTML5, CSS3, Python, Django, JavaScript, PostgreSQL, Bootstrap, Stripe_  
+  🔗 [View on GitHub](https://github.com/b1ndark/project5)
+
+- **Type_R_ Forum** – A forum where Type**_R_** owners can share their experiences and connect  
+  _Tech used: HTML5, CSS3, Python, Django, JavaScript, PostgreSQL, Bootstrap_  
+  🔗 [View on GitHub](https://github.com/b1ndark/project4)
+
+> ✨ *More projects available in my repositories.*
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-de-oliveira-fnd7/)
+
+---
+
+_Thanks for visiting my GitHub page!_
